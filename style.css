@@ -45,6 +45,7 @@
 
 .favourite-places-bg-container {
     background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/towerbg.png");
+    height: 100vh;
     background-size: cover;
 }
 
@@ -80,6 +81,7 @@
 
 .detailed-view-bg-container {
     background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/seabg.png");
+    height: 100vh;
     background-size: cover;
 
 }
