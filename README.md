@@ -46,10 +46,10 @@ This project allows users to:
 ---
 
 ## 🌐 Live Demo
-👉 [Click here to view the live site](https://souravkumaryadav.github.io/Favourite-PLaces/)
+👉 [Click here to view the live site](https://souravkumaryadav.github.io/Favourite-Places)
 
 ## 📫 Connect with me  
 [Connect with me on LinkedIn](https://www.linkedin.com/in/sourav-kumar-cs/)
 
 ## 📬 Contact
-Made with 💙 by ![Sourav Kumar](https://www.linkedin.com/in/sourav-kumar-cs/)
+Made with 💙 by [Sourav Kumar](https://www.linkedin.com/in/sourav-kumar-cs/)
